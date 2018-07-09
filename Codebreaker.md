@@ -1,5 +1,6 @@
 # Code-Breaker---A-Text-Game
-## Code for python:
+##Currently Avaliable Editions: Python
+### Code for python:
 ```
 import random
 import sys
